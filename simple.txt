@@ -1,1 +1,3 @@
 this is simple document
+
+this is java
